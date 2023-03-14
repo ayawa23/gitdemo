@@ -19,7 +19,6 @@ main (int argc, char *argv[])
 {
   int i = 0;
   printf ("%02d: Joseph A. Abandoh-Sam\n", ++i);
-  printf ("%02d: Amegbe Fafa Yawa\n", ++i);
 
 <<<<<<< HEAD
 =======
