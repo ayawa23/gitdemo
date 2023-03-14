@@ -5,3 +5,5 @@ A list of participants in COSC 346
 
 * Joseph A. Abandoh-Sam
 * Samuel Nyarkoh
+* Amegbe Fafa Yawa
+
